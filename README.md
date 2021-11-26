@@ -4,6 +4,8 @@
 <tr><td valign=top>
   <img src="https://github.com/MichielVictor/MichielVictor/blob/320f4da9fe640c57699d516c084ab95c5cffdc8e/Images/Michiel.png"></img><br>
   <img src="https://github.com/MichielVictor/MichielVictor/blob/320f4da9fe640c57699d516c084ab95c5cffdc8e/Images/Azure.png"></img><br>
+  <img src="https://github.com/MichielVictor/MichielVictor/blob/320f4da9fe640c57699d516c084ab95c5cffdc8e/Images/Azure%20SQL%20Server.png"></img><br>
+  
 </td><td>
 <table>
 <tr><td colspan=2><b><u>Personal Details:</u></b></td></tr>
