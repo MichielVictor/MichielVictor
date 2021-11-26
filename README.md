@@ -5,6 +5,7 @@
 <table>
 <tr><td colspan=2>Personal Details:</td></tr>
 <tr><td>Name:</td><td>Michiel Victor</td></tr>
+<tr><td>Vocation:</td><td>Senior Cloud Data Engineer</td></tr>
 </table>
 </td></tr>
 </table>
