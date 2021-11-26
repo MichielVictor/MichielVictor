@@ -20,7 +20,7 @@
 <tr><td><b>Vocation:</b></td><td>Senior Cloud Data Engineer</td></tr>
 <tr><td valign=top><b>Specialities:</b></td><td>● Data Engineering<br>● Data Analysis<br>● Data Visualization<br>● Data Warehousing</td></tr>
 <tr><td><b>LinkedIn:</b></td><td nowrap><a href='https://www.linkedin.com/in/michiel~victor'>https://www.linkedin.com/in/michiel~victor</a></td></tr>
-<tr><td valign=top><b>Technologies:</b></td><td>● Azure SQL Databases<br>● Azure Synapse Analytics<br>● Azure Data Factory<br>● Power BI</td></tr>
+<tr><td valign=top><b>Technologies:</b></td><td>● Azure SQL Databases<br>● Azure Synapse Analytics<br>● Azure Data Factory<br>● Power BI<br>● SSMS, SSIS, SSRS, SSAS</td></tr>
 <tr><td valign=top><b>Languages:</b></td><td>● TSQL<br>● DAX<br>● Python</td></tr>
 <tr><td valign=top><b>Markup:</b></td><td>● XML<br>● HTML<br>● CSS<br>● Jason<br>● Git Markdown</td></tr>
 </table>
