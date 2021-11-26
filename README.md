@@ -3,7 +3,7 @@
 <table>
 <tr><td valign=top><img src="https://github.com/MichielVictor/MichielVictor/blob/320f4da9fe640c57699d516c084ab95c5cffdc8e/Images/Michiel.png"></img></td><td>
 <table>
-<tr><td colspan=2>Personal Details:</td></tr>
+<tr><td colspan=2><b><u>Personal Details:</u></b></td></tr>
 <tr><td>Name:</td><td>Michiel Victor</td></tr>
 <tr><td>Location:</td><td>Johannesburg, South Africa</td></tr>
 <tr><td>Vocation:</td><td>Senior Cloud Data Engineer</td></tr>
