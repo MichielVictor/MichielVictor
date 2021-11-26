@@ -8,6 +8,7 @@
 <tr><td><b>Location:</b></td><td>Johannesburg, South Africa</td></tr>
 <tr><td><b>Vocation:</b></td><td>Senior Cloud Data Engineer</td></tr>
 <tr><td valign=top><b>Specialities:</b></td><td>● Data Engineering<br>● Data Analysis<br>● Data Visualization<br>● Data Warehousing</td></tr>
+<tr><td><b>LinkedIn:</b></td><td><href src='Hello'>Hello</href></td></tr>
 </table>
 </td></tr>
 </table>
